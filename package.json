@@ -1,0 +1,22 @@
+{
+    "name": "notes",
+    "version": "1.0.0",
+    "description": "My notes on different projects that I work on",
+    "main": "index.js",
+    "author": "Bilal Haroon",
+    "license": "MIT",
+    "private": true,
+    "devDependencies": {
+        "@vuepress/plugin-blog": "^1.9.2",
+        "@vuepress/theme-blog": "^2.2.0",
+        "vuepress": "^1.4.1"
+    },
+    "scripts": {
+        "docs:dev": "vuepress dev blog",
+        "docs:build": "vuepress build blog"
+    },
+    "dependencies": {
+        "roboto-fontface": "^0.10.0",
+        "vuepress-theme-ktquez": "^0.2.18"
+    }
+}
