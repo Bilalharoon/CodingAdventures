@@ -3,6 +3,7 @@ title: Using JsonConverter to hide passwords from the client
 date: 2020-04-22
 tags:
     - dotnet
+    - test
 ---
 
 `version: 3.1`
