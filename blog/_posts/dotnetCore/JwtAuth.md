@@ -7,7 +7,7 @@ tags:
 
 `version: 3.1`
 
-If you haven't read it, check out my article on [authenticating users](/2020/04/21/jwtauth/) before you read this. Or don't, I can't tell you what to do.
+If you haven't read it, check out my article on [Registering users](/2020/04/21/RegisterUsers/) before you read this. Or don't, I can't tell you what to do.
 
 A JWT (Json Web Token) is a token generated from a secret key that holds information about the user that we can use to verify the token.
 
