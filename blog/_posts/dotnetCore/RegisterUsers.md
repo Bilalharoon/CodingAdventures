@@ -9,7 +9,7 @@ tags:
 
 ## Hashing Passwords with Salt
 
-Hashing is a process by which you encrypt a string in a way that it cannot be unencrypted without a lot of effort. **You should always hash your passwords before you store them in a database** so that if the database is compromised you do not give away all your users passwords. Many people reuse the same password for multiple websites. If the attacker does gain access to your passwords he will be able try them on different accounts.
+Hashing is a process by which you encrypt a string in a way that it cannot be unencrypted without a lot of effort. **You should always hash your passwords before you store them in a database. Never store passwords in plain text** so that if the database is compromised you do not give away all your users passwords. Many people reuse the same password for multiple websites. If the attacker does gain access to your passwords he will be able try them on different accounts.
 
 Salt is a random number added to the password before hashing to make it harder to brute force
 If an attacker were to gain the hashed passwords, without the salt, he would have to do this:
