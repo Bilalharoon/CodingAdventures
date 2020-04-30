@@ -13,11 +13,11 @@ A JWT (Json Web Token) is a token generated from a secret key that holds informa
 
 The token is formatted like this: `header.payload.signature`.
 
-Header: Contains metadata like the issuer and expiration date.
+`header`: Contains metadata like the issuer and expiration date.
 
-Payload: Contains claims about the user. Claims are just information about the user like the username, id and role.
+`payload`: Contains claims about the user. Claims are just information about the user like the username, id and role.
 
-Signature: The header + payload encrypted with a secret key which is used to verify the user so that if someone changes the information in the payload he invalidates the signature.
+`signature`: The header + payload encrypted with a secret key which is used to verify the user so that if someone changes the information in the payload he invalidates the signature.
 
 [jwt.io](http://jwt.io)
 
