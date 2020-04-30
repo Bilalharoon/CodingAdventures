@@ -5,6 +5,7 @@ tags:
     - python
     - rasberryPi
     - robotics
+    - test
 ---
 
 I was bored during quarantine so I decided to create a room LED indicator with rasberry pi here is the end result. It is very useful if you are in an online meeting because you can change the light without having to get up from your desk
