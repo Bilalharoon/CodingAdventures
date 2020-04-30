@@ -12,4 +12,4 @@ I was bored during quarantine so I decided to create a room LED indicator with r
 
 ## The code
 
-The full code is on [Github](https://github.com/Bilalharoon/LightIndicator) it uses the flask microframework to run a web server which is used to get the input to change the light. If you have any questions comment below.
+The full code is on [Github](https://github.com/Bilalharoon/LightIndicator) it uses the flask microframework to run a web server which is used to get the input to change the light. If you have any questions comment below. :)
