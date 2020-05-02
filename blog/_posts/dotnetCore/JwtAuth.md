@@ -4,6 +4,7 @@ date: 2020-04-22
 tags:
     - dotnet
     - test
+    - auth
 ---
 
 `version: 3.1`
