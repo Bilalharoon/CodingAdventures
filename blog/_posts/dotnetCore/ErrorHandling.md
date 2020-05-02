@@ -3,6 +3,7 @@ title: Handling Errors
 date: 2020-04-22
 tags:
     - dotnet
+    - error
 ---
 
 `version: 3.1`
